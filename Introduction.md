@@ -14,5 +14,8 @@ Many websites
 ## jQuery Books
 Reference books
 
+## jQuery Tutorials
+Online Tutorials to learn jQuery.
+
 
 
