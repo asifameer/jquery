@@ -17,5 +17,8 @@ Reference books
 ## jQuery Tutorials
 Online Tutorials to learn jQuery.
 
+# jQuery Learning Curve
+jQuery learning curve is not very steep if you have a fair idea of JavaScript.
+
 
 
